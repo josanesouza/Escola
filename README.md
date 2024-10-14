@@ -49,5 +49,11 @@ Programas Utilizados :
 Bancos de Dados :
 
     PostgreSQL - Usado em ambiente de desenvolvimento e produção.
+    
+## HOSPEDAGEM EM NUVEM  RENDER:
+Hospedagem aplicações Web ( frameworks spring boot, Flask, Express)
 
+Deploy simples e eficiente na nuvem, sem lidar com a complexidade de plataformas mais robustas como AWS ou Google Cloud
+
+https://escola-render.onrender.com/swagger-ui/index.html#/
 
